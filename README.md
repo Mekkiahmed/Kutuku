@@ -1,32 +1,32 @@
 # Kutuku
 
 ## Description
-Ce projet est développé avec React Native pour ...
-# Vérifier les versions de Node.js et npm
+This project is developed with React Native for ...
+# Check Node.js and npm versions
 node -v
 npm -v
 
-# Installer React Native CLI
+# Install React Native CLI
 npm install -g react-native-cli
 
-# Vérifier l'installation de React Native CLI
+# Verify the installation of React Native CLI
 react-native --version
 
-# Créer un nouveau projet React Native
+# Create a new React Native project
 npx react-native init Kutuku
 cd Kutulu
 
-# Initialiser un dépôt Git
+# Initialize a Git repository
 git init
 
-# Ajouter tous les fichiers au dépôt
+# Add all files to the repository
 git add .
 
-# Faire un commit initial
+# Make an initial commit
 git commit -m "Initial commit"
 
-# Ajouter le dépôt distant GitHub
+# Add the remote GitHub repository
 git remote add origin https://github.com/Mekkiahmed/Kutuku.git
 
-# Pousser le projet vers GitHub
+# Push the project to GitHub
 git push -u origin master
