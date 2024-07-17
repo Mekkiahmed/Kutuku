@@ -1,5 +1,7 @@
-#Kutuku
+# Kutuku
 
+## Description
+Ce projet est développé avec React Native pour ...
 # Vérifier les versions de Node.js et npm
 node -v
 npm -v
